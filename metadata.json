@@ -1,0 +1,6 @@
+{
+  "name": "SubZero - Minimalist Subscription Tracker",
+  "description": "Zero-friction SaaS Abo-Tracker mit automatischer Rechnungs-Extraktion, Live-EUR-Burn-Rate, Inline-Editing und 14-Tage Kündigungserinnerung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
